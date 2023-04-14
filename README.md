@@ -1,16 +1,16 @@
 # Baby - Project 1
 
-## Projektstruktur
+## Project Structure
 
 
-Implemeneren Sie  Klasse Baby in C++. 
+Implement class Baby in C++. 
 
-In main(): Kreiieren Sie ein Baby Kilian, 3 Monate alt, der zuerst weint, dann zu trinken bekommt und anschließend 3 Stunden schläft.
+In main(): Create a baby Kilian, 3 months old, who first cries, then gets to drink, and then sleeps for 3 hours.
 
-Allgemeine Hinweise: Beachten Sie, dass im Design keine Konstruktor, Destruktor, Geer und Seer modelliert sind. In der Implemen erung sind sie jedoch zu berücksichgen.
+General notes: Note that in the design no constructor, destructor, geer and seer are modeled. However, they must be taken into account in the implementation.
 
-In einer .h Datei die Klasse Baby mit einem Default Konstruktor, Destruktor, Aributen und Funkonen (inkl. Geer und Seer-Funkonen) deklarieren. 
+In an .h file declare the class Baby with a default constructor, destructor, atributes and functions (including geer and seer functions). 
 
-Implemeneren Sie die Funkonen in der *.cpp Datei. Die Funk onen weinen(), trinken() und schlafen() geben immer den aktuellen Zustand auf der Konsole aus.  
+Implement the functions in the .cpp file. The functions cry(), drink() and sleep() always output the current state on the console.  
 
-Realisieren Sie im Hauptprogramm den Tagesablauf von Baby Kilian.
+Realize the daily routine of baby Kilian in the main program.
