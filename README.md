@@ -7,9 +7,9 @@ Implement class Baby in C++.
 
 In main(): Create a baby Kilian, 3 months old, who first cries, then gets to drink, and then sleeps for 3 hours.
 
-General notes: Note that in the design no constructor, destructor, geer and seer are modeled. However, they must be taken into account in the implementation.
+General notes: Note that in the design no constructor, destructor, get and set are modeled. However, they must be taken into account in the implementation.
 
-In an .h file declare the class Baby with a default constructor, destructor, atributes and functions (including geer and seer functions). 
+In an .h file declare the class Baby with a default constructor, destructor, atributes and functions (including get and set functions). 
 
 Implement the functions in the .cpp file. The functions cry(), drink() and sleep() always output the current state on the console.  
 
