@@ -1,38 +1,9 @@
-# Praktikumsprojekt für Programmiertechniken 2
+# Baby - Project 1
 
 ## Projektstruktur
-<!-- prettier-ignore-start -->
-    .
-    ├── CMakeLists.txt  <-- Diese Datei nicht ändern!
-    ├── README.md       <-- Dieses Readme
-    ├── Praktikum1.pdf    <-- Aufgabenstellung für das 1. Praktikum
-    └── festo
-        │
-        ├── CMakeLists.txt
-        ├── main.cpp        <-- Main-Datei. Hier muss Ihre Lösung eingebunden/implementiert werden.
-        ├── README.md               <-- Hinweise zur Verwendung des Simulators    
-        │
-        ├── doku            <-- Hier können Sie Ihre UML Diagramme und sonstige Doku ablegen. 
-        │
-        ├── festo-source            <-- Alle Klassen der Festoanlage. Dürfen Sie nutzen, aber nicht verändern!    
-        │   ├── CMakeLists.txt
-        │   └── ...
-        │
-        ├── simulationadapterbmt    <-- Alle Klassen für den Ablauf der Simulatio. Bitte diese nicht anfassen!
-        │   ├── CMakeLists.txt
-        │   └── ...
-        │
-        ├── simulationcore          <-- Alle Klassen vom Simulator. Bitte diese nicht anfassen!
-        │   ├── CMakeLists.txt
-        │   └── ...
-        │
-        └── src                     <-- In diesem Ordner können Sie eigene Klassen erstellen.
-            ├── CMakeLists.txt
-            ├── dummy.cpp           <-- Platzhalter, kann gelöscht werden, wenn hier eine eigene Klasse erstellt wurde
-            └── dummy.h             <-- Platzhalter, kann gelöscht werden, wenn hier eine eigene Klasse erstellt wurde
-<!-- prettier-ignore-end -->
 
-Im Hauptverzeichnis (root) liegt neben dieser Readme.md noch die oberste CMakeLists.txt. Diese bitte nicht ändern.
+
+Im Hauptverzeichnis (root) liegt neben dieser Readme.md. 
 
 Im Unterverzeichnis `festo` befinden sich alle benötigten Ressourcen für die Praktika mit der Festo-Anlage/Simulation.
 
